@@ -4,19 +4,6 @@ This project focuses on forecasting air pollution levels — specifically PM2.5 
 
 ---
 
-## 📁 Project Structure
-
-```bash
-.
-├── data/                 # Contains raw and processed datasets
-├── models/               # Saved models and weights
-├── notebooks/            # Jupyter notebooks for experimentation
-├── submissions/          # CSV files submitted to Kaggle
-└── README.md             # Project overview
-```
-
----
-
 ##  Model Overview
 
 ### Model Type:
