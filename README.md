@@ -96,4 +96,3 @@ Final submission RMSE: **5235.3927**
 
 ---
 
-Let me know if you'd like a version with badges, LaTeX math, or license info!
